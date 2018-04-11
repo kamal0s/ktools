@@ -5,5 +5,5 @@
 #3- Decrypt ALL type OF Hash 
 #and more in futere 
 #you can download it by 
-this command ~: git clone https://github.com/kamal0s/ktools.git
-
+#this command ~: git clone https://github.com/kamal0s/ktools.git
+#run it use ~# python3 ktools.py
