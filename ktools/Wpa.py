@@ -89,7 +89,7 @@ def RubAirdump():
 def ReadCsv():
          global targetbssid, targetchanel
          print(B + "\t\t List Of Wirless AP \t\t\n")
-         with open("/root/PycharmProjects/test/test1-01.csv",newline='', encoding='utf-8') as csvfile:
+         with open("test1-01.csv",newline='', encoding='utf-8') as csvfile:
               sreader = csv.reader(csvfile,delimiter='\t')
               v = 0
               bssidlist = []
